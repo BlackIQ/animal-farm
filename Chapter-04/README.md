@@ -1,3 +1,7 @@
+### Animal Farm
+
+**Chapter 4**
+
 By the late summer the news of what had happened on Animal Farm had spread across half the county. Every day Snowball and Napoleon sent out flights of pigeons whose instructions were to mingle with the animals on neighbouring farms, tell them the story of the Rebellion, and teach them the tune of 'Beasts of England'.
 
 Most of this time Mr. Jones had spent sitting in the taproom of the Red Lion at Willingdon, complaining to anyone who would listen of the monstrous injustice he had suffered in being turned out of his property by a pack of good-for-nothing animals. The other farmers sympathised in principle, but they did not at first give him much help. At heart, each of them was secretly wondering whether he could not somehow turn Jones's misfortune to his own advantage. It was lucky that the owners of the two farms which adjoined Animal Farm were on permanently bad terms. One of them, which was named Foxwood, was a large, neglected, old-fashioned farm, much overgrown by woodland, with all its pastures worn out and its hedges in a disgraceful condition. Its owner, Mr. Pilkington, was an easy-going gentleman farmer who spent most of his time in fishing or hunting according to the season. The other farm, which was called Pinchfield, was smaller and better kept. Its owner was a Mr. Frederick, a tough, shrewd man, perpetually involved in lawsuits and with a name for driving hard bargains. These two disliked each other so much that it was difficult for them to come to any agreement, even in defence of their own interests.
