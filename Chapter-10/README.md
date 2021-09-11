@@ -1,3 +1,7 @@
+### Animal Farm
+
+**Chapter 10**
+
 Years passed. The seasons came and went, the short animal lives fled by. A time came when there was no one who remembered the old days before the Rebellion, except Clover, Benjamin, Moses the raven, and a number of the pigs.
 
 Muriel was dead; Bluebell, Jessie, and Pincher were dead. Jones too was dead--he had died in an inebriates' home in another part of the country. Snowball was forgotten. Boxer was forgotten, except by the few who had known him. Clover was an old stout mare now, stiff in the joints and with a tendency to rheumy eyes. She was two years past the retiring age, but in fact no animal had ever actually retired. The talk of setting aside a corner of the pasture for superannuated animals had long since been dropped. Napoleon was now a mature boar of twenty-four stone. Squealer was so fat that he could with difficulty see out of his eyes. Only old Benjamin was much the same as ever, except for being a little greyer about the muzzle, and, since Boxer's death, more morose and taciturn than ever.
