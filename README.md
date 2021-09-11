@@ -8,7 +8,7 @@
 
 **Book Menu**
 
-- [Intro](/Chapter-0)
+- [Intro](/Chapter-00)
 - [Chapter 1](/Chapter-01)
 - [Chapter 2](/Chapter-02)
 - [Chapter 3](/Chapter-03)
