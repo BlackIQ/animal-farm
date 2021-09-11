@@ -1,3 +1,7 @@
+### Animal Farm
+
+**Chapter 2**
+
 Three nights later old Major died peacefully in his sleep. His body was buried at the foot of the orchard.
 
 This was early in March. During the next three months there was much secret activity. Major's speech had given to the more intelligent animals on the farm a completely new outlook on life. They did not know when the Rebellion predicted by Major would take place, they had no reason for thinking that it would be within their own lifetime, but they saw clearly that it was their duty to prepare for it. The work of teaching and organising the others fell naturally upon the pigs, who were generally recognised as being the cleverest of the animals. Pre-eminent among the pigs were two young boars named Snowball and Napoleon, whom Mr. Jones was breeding up for sale. Napoleon was a large, rather fierce-looking Berkshire boar, the only Berkshire on the farm, not much of a talker, but with a reputation for getting his own way. Snowball was a more vivacious pig than Napoleon, quicker in speech and more inventive, but was not considered to have the same depth of character. All the other male pigs on the farm were porkers. The best known among them was a small fat pig named Squealer, with very round cheeks, twinkling eyes, nimble movements, and a shrill voice. He was a brilliant talker, and when he was arguing some difficult point he had a way of skipping from side to side and whisking his tail which was somehow very persuasive. The others said of Squealer that he could turn black into white.
