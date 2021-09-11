@@ -1,3 +1,7 @@
+### Animal Farm
+
+**Chapter 7**
+
 It was a bitter winter. The stormy weather was followed by sleet and snow, and then by a hard frost which did not break till well into February. The animals carried on as best they could with the rebuilding of the windmill, well knowing that the outside world was watching them and that the envious human beings would rejoice and triumph if the mill were not finished on time.
 
 Out of spite, the human beings pretended not to believe that it was Snowball who had destroyed the windmill: they said that it had fallen down because the walls were too thin. The animals knew that this was not the case. Still, it had been decided to build the walls three feet thick this time instead of eighteen inches as before, which meant collecting much larger quantities of stone. For a long time the quarry was full of snowdrifts and nothing could be done. Some progress was made in the dry frosty weather that followed, but it was cruel work, and the animals could not feel so hopeful about it as they had felt before. They were always cold, and usually hungry as well. Only Boxer and Clover never lost heart. Squealer made excellent speeches on the joy of service and the dignity of labour, but the other animals found more inspiration in Boxer's strength and his never-failing cry of "I will work harder!"
