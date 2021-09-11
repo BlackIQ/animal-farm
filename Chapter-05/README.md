@@ -1,3 +1,7 @@
+### Animal Farm
+
+**Chapter 5**
+
 As winter drew on, Mollie became more and more troublesome. She was late for work every morning and excused herself by saying that she had overslept, and she complained of mysterious pains, although her appetite was excellent. On every kind of pretext she would run away from work and go to the drinking pool, where she would stand foolishly gazing at her own reflection in the water. But there were also rumours of something more serious. One day, as Mollie strolled blithely into the yard, flirting her long tail and chewing at a stalk of hay, Clover took her aside.
 
 "Mollie," she said, "I have something very serious to say to you. This morning I saw you looking over the hedge that divides Animal Farm from Foxwood. One of Mr. Pilkington's men was standing on the other side of the hedge. And--I was a long way away, but I am almost certain I saw this--he was talking to you and you were allowing him to stroke your nose. What does that mean, Mollie?"
