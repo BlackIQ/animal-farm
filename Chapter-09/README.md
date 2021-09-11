@@ -1,3 +1,7 @@
+### Animal Farm
+
+**Chapter 9**
+
 Boxer's split hoof was a long time in healing. They had started the rebuilding of the windmill the day after the victory celebrations were ended. Boxer refused to take even a day off work, and made it a point of honour not to let it be seen that he was in pain. In the evenings he would admit privately to Clover that the hoof troubled him a great deal. Clover treated the hoof with poultices of herbs which she prepared by chewing them, and both she and Benjamin urged Boxer to work less hard. "A horse's lungs do not last for ever," she said to him. But Boxer would not listen. He had, he said, only one real ambition left--to see the windmill well under way before he reached the age for retirement.
 
 At the beginning, when the laws of Animal Farm were first formulated, the retiring age had been fixed for horses and pigs at twelve, for cows at fourteen, for dogs at nine, for sheep at seven, and for hens and geese at five. Liberal old-age pensions had been agreed upon. As yet no animal had actually retired on pension, but of late the subject had been discussed more and more. Now that the small field beyond the orchard had been set aside for barley, it was rumoured that a corner of the large pasture was to be fenced off and turned into a grazing-ground for superannuated animals. For a horse, it was said, the pension would be five pounds of corn a day and, in winter, fifteen pounds of hay, with a carrot or possibly an apple on public holidays. Boxer's twelfth birthday was due in the late summer of the following year.
