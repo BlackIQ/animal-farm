@@ -1,3 +1,7 @@
+### Animal Farm
+
+**Chapter 6**
+
 All that year the animals worked like slaves. But they were happy in their work; they grudged no effort or sacrifice, well aware that everything that they did was for the benefit of themselves and those of their kind who would come after them, and not for a pack of idle, thieving human beings.
 
 Throughout the spring and summer they worked a sixty-hour week, and in August Napoleon announced that there would be work on Sunday afternoons as well. This work was strictly voluntary, but any animal who absented himself from it would have his rations reduced by half. Even so, it was found necessary to leave certain tasks undone. The harvest was a little less successful than in the previous year, and two fields which should have been sown with roots in the early summer were not sown because the ploughing had not been completed early enough. It was possible to foresee that the coming winter would be a hard one.
