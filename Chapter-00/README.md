@@ -1,3 +1,7 @@
+### Animal Farm
+
+**Chapter 0 (Intro)**
+
 Animal Farm is a satirical allegorical novella by George Orwell, first published in England on 17 August 1945. The book tells the story of a group of farm animals who rebel against their human farmer, hoping to create a society where the animals can be equal, free, and happy. Ultimately, the rebellion is betrayed, and the farm ends up in a state as bad as it was before, under the dictatorship of a pig named Napoleon.
 
 According to Orwell, the fable reflects events leading up to the Russian Revolution of 1917 and then on into the Stalinist era of the Soviet Union. Orwell, a democratic socialist, was a critic of Joseph Stalin and hostile to Moscow-directed Stalinism, an attitude that was critically shaped by his experiences during the May Days conflicts between the POUM and Stalinist forces during the Spanish Civil War. The Soviet Union had become a totalitarian autocracy built upon a cult of personality while engaging in the practice of mass incarcerations and secret summary trials and executions. In a letter to Yvonne Davet, Orwell described Animal Farm as a satirical tale against Stalin ("un conte satirique contre Staline"), and in his essay "Why I Write" (1946), wrote that Animal Farm was the first book in which he tried, with full consciousness of what he was doing, "to fuse political purpose and artistic purpose into one whole".
