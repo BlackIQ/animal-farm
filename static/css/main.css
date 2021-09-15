@@ -3,20 +3,3 @@
 * {
 	font-family: 'Roboto', sans-serif;
 }
-
-.main {
-	background: #f1f1f1;
-	margin: 5%;
-	padding: 5%;
-	border: solid 1px black;
-}
-
-.home {
-	margin: 4%;
-	padding: 4%;
-	background: #f3f3f3;
-}
-.home a {
-	text-decoration: none;
-	color: blue;
-}
