@@ -1,5 +1,6 @@
 @media (prefers-color-scheme: light) {
 	.main {
+		color: black;
 		background: #f1f1f1;
 		margin: 5%;
 		padding: 5%;
@@ -7,6 +8,7 @@
 	}
 
 	.home {
+		color: black;
 		margin: 4%;
 		padding: 4%;
 		background: #f3f3f3;
