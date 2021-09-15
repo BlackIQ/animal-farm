@@ -1,8 +1,5 @@
-body {
-	background: #f1f1f1;
-}
-
 .main {
+	background: #f1f1f1;
 	margin: 5%;
 	padding: 5%;
 	border: solid 1px black;
