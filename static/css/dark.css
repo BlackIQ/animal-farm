@@ -1,3 +1,18 @@
 @media (prefers-color-scheme: dark) {
+	.main {
+		background: #333;
+		margin: 5%;
+		padding: 5%;
+		border: solid 1px white;
+	}
 
+	.home {
+		margin: 4%;
+		padding: 4%;
+		background: #444;
+	}
+	.home a {
+		text-decoration: none;
+		color: red;
+	}
 }
